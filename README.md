@@ -71,4 +71,4 @@ Through NEXORA, I applied Python fundamentals, functions, loops, conditional sta
 **Category:** Python with AI – Data Analysis  
 **Purpose:** Academic project  
 **Developer:** [Allabakash Mohammed Sadiq]  
-**GitHub Repository:** [https://github.com/mohammedsadiq08-spec/NEXORA---MD?utm_source=chatgpt.com]
+**GitHub Repository:** [https://github.com/mohammedsadiq08-spec/NEXORA---MD]
